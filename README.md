@@ -1,4 +1,4 @@
-# badger_counter
+# Badger Counter
 How many badgers are there in a picture?
 
 ## Features
